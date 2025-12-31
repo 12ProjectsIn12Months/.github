@@ -13,7 +13,7 @@ Each project is a complete, shipped product. No half-baked ideas. No "coming soo
 ## 👷‍♂️👷‍♀️ Meet the Builders
 
 ### Ryan - Product & Strategy 🎯
-*Turns fuzzy ideas into shipped features with sharp positioning.*
+*Turns fuzzy ideas into shipped features with sharp positioning.*</br>
 🔗 [LinkedIn](https://www.linkedin.com/in/ryanseeras/)
 
 ### Andrea - Engineering 🌍
