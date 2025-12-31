@@ -17,11 +17,11 @@ Each project is a complete, shipped product. No half-baked ideas. No "coming soo
 🔗 [LinkedIn](https://www.linkedin.com/in/ryanseeras/)
 
 ### Andrea - Engineering 🌍
-*Engineer who loves to build things with code. While traveling the world. Because why not? Remote work is the best work.*
+*Engineer who loves to build things with code. While traveling the world. Because why not? Remote work is the best work.*</br>
 🔗 [LinkedIn](https://www.linkedin.com/in/andreamagazzini/)
 
 ### Richard - Engineering 🚀
-*Full-stack builder who has a dog named like a programming language. (We won't tell you which one, but it's probably not "Ruby".)*
+*Full-stack builder who has a dog named like a programming language. (We won't tell you which one, but it's probably not "Ruby".)*</br>
 🔗 [LinkedIn](https://www.linkedin.com/in/richard-menning/)
 
 ## 🎨 What We Build
